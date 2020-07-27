@@ -1,0 +1,8 @@
+R:\Users\User\source\repos\DisplayBar\bin\Debug\DisplayBar.dll
+R:\Users\User\source\repos\DisplayBar\bin\Debug\DisplayBar.pdb
+R:\Users\User\source\repos\DisplayBar\obj\Debug\DisplayBar.csprojAssemblyReference.cache
+R:\Users\User\source\repos\DisplayBar\obj\Debug\DisplayBar.csproj.GenerateResource.cache
+R:\Users\User\source\repos\DisplayBar\obj\Debug\DisplayBar.csproj.CoreCompileInputs.cache
+R:\Users\User\source\repos\DisplayBar\obj\Debug\DisplayBar.dll
+R:\Users\User\source\repos\DisplayBar\obj\Debug\DisplayBar.pdb
+R:\Users\User\source\repos\DisplayBar\obj\Debug\DisplayBar.statusBar.resources
