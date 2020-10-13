@@ -38,6 +38,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "statusBar";
             this.Size = new System.Drawing.Size(200, 20);
+            this.Load += new System.EventHandler(this.statusBar_Load);
             this.ResumeLayout(false);
 
         }
